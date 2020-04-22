@@ -1,0 +1,21 @@
+.CardCollection {
+  font-family: "Times New Roman", Times, serif;
+
+  h1{
+    font-size: 54px;
+    margin: 1rem;
+  }
+  .cities-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 4rem;
+
+  }
+  .sorting-form {
+    display: flex;
+    justify-content: space-around;
+  }
+
+
+}
